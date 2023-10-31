@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there, i'm Bruno 👋
 
 <!--
 **amatbruno/amatbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+- 🔭 Cross-platform Application Development (DAM) / Web-Application Development (DAW)
+- 🌱 Focusing in learning Full Stack fundamentals
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
