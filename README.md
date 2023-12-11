@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Cross-platform Application Development (DAM) / Web-Application Development (DAW)
-- 🌱 Learning Full Stack fundamentals
+- 🔭 Full Stack Developer for Backend & Frontend
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
