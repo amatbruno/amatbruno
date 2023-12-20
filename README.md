@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Full Stack Developer for Backend & Frontend
+- 🔭 Full Stack Developer 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
