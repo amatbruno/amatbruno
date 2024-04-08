@@ -1,5 +1,5 @@
 # 🙋🏻‍♂️ About Me:
-Hi, my name is Bruno Amat.<br>I'm a Full Stack Developer.<br>Currently i'm working and learning on my programming skills.<br>
+Hi, my name is Bruno Amat.<br>I'm a Full Stack Developer.<br>Currently working and learning on my programming skills.<br>
 
 
 ## 🌐 Socials:
